@@ -1,4 +1,4 @@
-TEST
-=====
+sub2 test
+cat > README.md << \EOF
+\EOF
 
-echo with master
